@@ -1,5 +1,7 @@
 # :sparkles: :heart: Emoji-Cheat-Sheet.com :heart: :sparkles:
+
 /play sax
+
 A one pager listing the different emoji emoticons supported on
 [Campfire](http://campfirenow.com/),
 [GitHub](http://github.com/),
